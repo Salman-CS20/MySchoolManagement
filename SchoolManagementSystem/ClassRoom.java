@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-// Implemented by: Abdulrahim Obaid - ID: 441000953
 public class ClassRoom {
     private int classId;
     private  String className;
@@ -56,7 +55,7 @@ public class ClassRoom {
         }
 
 
-                     // Salman Abdulrahman Alsaedi/ 451015373
+                     
     public void addStudents() {
         if (classrooms.isEmpty()) {
             System.out.println("No classrooms available. Select a classroom first.");
@@ -207,3 +206,4 @@ public class ClassRoom {
 
 
 }
+
