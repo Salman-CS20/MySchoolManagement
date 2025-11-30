@@ -1,4 +1,3 @@
-// Implemented by: Abdulrahim Obaid, 441000953
 // AGGREGATION: NoticeBoard aggregated by SchoolManagement
 import java.util.Scanner;
 
@@ -88,3 +87,4 @@ public class NoticeBoard {
 
 
 }
+
