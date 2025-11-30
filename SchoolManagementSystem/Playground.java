@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-// Implemented by: Abdulrahim Obaid, ID: 441000953
 // AGGREGATION: Playground aggregated by SchoolManagement
 public class Playground {
 
@@ -35,7 +34,6 @@ public class Playground {
     }
 
     // Method to book the playground for a class
-    // Salman Abdulrahman Alsaedi / 451015373
     public void bookPlayground() {
         System.out.println("---BOOKING PLAYGROUND---");
         
@@ -89,7 +87,6 @@ public class Playground {
     }
 
     // Method to check if playground is occupied
-    // Implemented by: Abdulrahim Obaid, ID: 441000953
     public void isOccupied() {
         if (classId != 0) {
             System.out.println("Playground is occupied by class: " + classId);
@@ -149,4 +146,5 @@ public class Playground {
         }
     }
 }
+
 
