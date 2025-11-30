@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-// Implemented by: Abdulrahim Obaid, ID: 441000953
 // INHERITANCE:  For ClassEquipment and LabEquipment
 public class Equipment {
     private int equipmentId;
@@ -56,4 +55,5 @@ public class Equipment {
         this.cost = cost;
     }
 }
+
 
